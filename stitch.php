@@ -1,5 +1,5 @@
 <?php
-
+//我对此文件进行了更改
 header("Content-type:text/html;charset=utf8");
 error_reporting(0);
 define('THEPATH' , dirname($_SERVER['SCRIPT_FILENAME']));
